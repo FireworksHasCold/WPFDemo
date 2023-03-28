@@ -1,0 +1,5 @@
+D:\myProject\WpfApp01\WpfApp01\bin\Release\net6.0-windows\publish\WpfApp01.exe
+D:\myProject\WpfApp01\WpfApp01\bin\Release\net6.0-windows\publish\WpfApp01.dll
+D:\myProject\WpfApp01\WpfApp01\bin\Release\net6.0-windows\publish\WpfApp01.deps.json
+D:\myProject\WpfApp01\WpfApp01\bin\Release\net6.0-windows\publish\WpfApp01.runtimeconfig.json
+D:\myProject\WpfApp01\WpfApp01\bin\Release\net6.0-windows\publish\WpfApp01.pdb
