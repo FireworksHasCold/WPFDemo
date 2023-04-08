@@ -98,6 +98,7 @@
             <Button Content="啊" Style="{DynamicResource ButtonStyle1}" />
             <Button Content="b" />
             <Button Content="c" />
+            <Button Content="d" />
         </StackPanel>
     </Grid>
 </Window>
