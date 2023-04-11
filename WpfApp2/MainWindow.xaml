@@ -99,6 +99,7 @@
             <Button Content="b" />
             <Button Content="c" />
             <Button Content="d" />
+            <Button Content="f" />
         </StackPanel>
     </Grid>
 </Window>
